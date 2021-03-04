@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Android Learning</string>
+    <string name="tvTitle">Welcome to Android</string>
+    <string name="etUserName_hint">Enter User Name</string>
+    <string name="etPassword_hint">Enter Password</string>
+    <string name="btnLogin">Log In</string>
+    <string name="btnClear">Clear</string>
+    <string name="btnRegister">Register</string>
+    <string name="rbfemale">Female</string>
+    <string name="rbmale">Male</string>
+    <string name="cb24hours">24/7 Hours</string>
+    <string name="cb8Hours">8 Hours</string>
+    <string name="email">Email</string>
+    <string name="re_enter_password">Re-enter Password</string>
+
+    <string-array name="country">
+        <item>Turkey</item>
+        <item>Germany</item>
+        <item>Spain</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Romania</item>
+    </string-array>
+</resources>
